@@ -9,7 +9,16 @@ from telegram.ext import (
 import os
 import requests
 
-TOKEN = "8988662987:AAH3uHda8byWXB36s8qLgCwvjzCK5HSi0Qo"
+
+
+
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+TOKEN = os.getenv("BOT_TOKEN")
+
 
 API_URL = "http://127.0.0.1:8000/query"
 
