@@ -297,3 +297,19 @@ VIT Chennai
 - Streamlit Web Application
 - Multi-format Enterprise Document Support
 - Source-aware AI Responses
+
+
+# screenshots
+
+#streamlit ui
+<img width="1917" height="875" alt="image" src="https://github.com/user-attachments/assets/4d9893fd-064d-485b-a0dd-fcc7134aace4" />
+
+#swagger ui
+<img width="1607" height="716" alt="image" src="https://github.com/user-attachments/assets/da5132a3-1c04-49e8-a1dc-10145e2b3560" />
+
+#telegram ui
+<img width="962" height="772" alt="image" src="https://github.com/user-attachments/assets/694eb406-b4e4-4d55-ac7e-26eec2370981" />
+
+#n8n workflow
+<img width="945" height="385" alt="image" src="https://github.com/user-attachments/assets/832be5ef-c7ff-433a-a0fe-1ed93b8af32e" />
+
